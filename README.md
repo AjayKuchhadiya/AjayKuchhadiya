@@ -17,7 +17,7 @@ I regularly write articles on [Medium](https://medium.com/@kuchhadiyaajay86kn), 
 ---
 
 ### 💬 Ask Me About
-- Artificial Intelligence (AI)
+- Generative AI
 - Machine Learning (ML)
 - Deep Learning
 - Natural Language Processing (NLP)
