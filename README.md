@@ -29,7 +29,7 @@ I regularly write articles on [Medium](https://medium.com/@kuchhadiyaajay86kn), 
 You can reach me at **kuchhadiyaajay86kn@gmail.com**. I'm always open to discussing new ideas, collaborating on exciting projects, or answering questions related to AI/ML.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ajaykuchhadiya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ajay-kuchhadiya-70913a222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://medium.com/@kuchhadiyaajay86kn" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
