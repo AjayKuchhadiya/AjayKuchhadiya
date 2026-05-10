@@ -36,7 +36,7 @@ I build **production agentic AI systems** — multi-agent orchestration, LLM-pow
 | **Agentic AI** | Multi-agent systems, A2A protocol, agent orchestration, tool use, memory |
 | **LLM Infrastructure** | Google ADK, Vertex AI, RAG, prompt management, session & memory services |
 | **Backend** | Python, FastAPI, asyncio, SQLAlchemy, MySQL, REST & streaming APIs |
-| **Cloud & Infra** | Google Cloud (Vertex AI, GCS, Cloud Scheduler, Cloud Build), Docker |
+| **Cloud & Infra** | Google Cloud (Vertex AI, Cloud Run, GCS, Cloud Scheduler, Cloud Build), Docker |
 | **Integrations** | HubSpot, Salesforce, Gmail, Google Workspace, ClickUp, Composio, MCP, A2A |
 | **ML Foundations** | NLP, Deep Learning, Computer Vision, scikit-learn, TensorFlow, Pandas |
 
