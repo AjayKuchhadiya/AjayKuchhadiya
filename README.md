@@ -1,55 +1,60 @@
-<h1 align="center">Hi there 👋, I'm Ajay Kuchhadiya</h1>
-<h3 align="center">A Passionate Machine Learning Engineer</h3>
+<h1 align="center">Ajay Kuchhadiya</h1>
+<h3 align="center">AI Engineer · Agentic Systems · LLM Infrastructure</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajaykuchhadiya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  I'm a Machine Learning Engineer with a deep interest in Artificial Intelligence, Deep Learning, and Data Science. I enjoy solving complex problems using cutting-edge technologies and sharing my knowledge through blogs and collaborative projects. 
+  <a href="https://www.linkedin.com/in/ajay-kuchhadiya-70913a222/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@kuchhadiyaajay86kn" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:kuchhadiyaajay86kn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 📝 Latest Articles
-I regularly write articles on [Medium](https://medium.com/@kuchhadiyaajay86kn), where I share insights on AI, machine learning techniques, and industry trends. Check out my latest posts!
+I build **production agentic AI systems** — multi-agent orchestration, LLM-powered workflow automation, and intelligent tooling that connects real-world services. I focus on the intersection of language models and real-world software: making AI actually useful across the tools and workflows people use every day.
+
+---
+
+### 🔨 What I'm Building
+
+- **Multi-agent orchestration** using Google ADK and the A2A (Agent-to-Agent) protocol — agents that coordinate, delegate, and compose tasks autonomously
+- **Agentic workflow engine** — users define natural-language workflows that execute on schedule or on-demand via cloud scheduler, with branching logic and tool use
+- **RAG pipelines** on Vertex AI — document ingestion, semantic retrieval, and grounded generation over private corpora
+- **MCP (Model Context Protocol) integration** — standardised tool surfaces for LLMs across connectors
+- **Real-time streaming backends** with FastAPI, async SQLAlchemy, and Server-Sent Events
+
+---
+
+### 🧠 Core Expertise
+
+| Area | Details |
+|---|---|
+| **Agentic AI** | Multi-agent systems, A2A protocol, agent orchestration, tool use, memory |
+| **LLM Infrastructure** | Google ADK, Vertex AI, RAG, prompt management, session & memory services |
+| **Backend** | Python, FastAPI, asyncio, SQLAlchemy, MySQL, REST & streaming APIs |
+| **Cloud & Infra** | Google Cloud (Vertex AI, GCS, Cloud Scheduler, Cloud Build), Docker |
+| **Integrations** | HubSpot, Salesforce, Gmail, Google Workspace, ClickUp, Composio, MCP, A2A |
+| **ML Foundations** | NLP, Deep Learning, Computer Vision, scikit-learn, TensorFlow, Pandas |
+
+---
+
+### 📝 Writing
+
+I write about AI engineering, agentic systems, and practical ML on [Medium](https://medium.com/@kuchhadiyaajay86kn).
 
 ---
 
 ### 💬 Ask Me About
-- Generative AI
-- Machine Learning (ML)
-- Deep Learning
-- Natural Language Processing (NLP)
-- Computer Vision
+
+- Designing multi-agent architectures for real business workflows
+- Grounding LLMs with RAG on private / enterprise data
+- Building async, production-ready AI backends
+- Connecting LLMs to third-party services via tool use and MCP
 
 ---
 
-### 📫 Let's Connect!
-You can reach me at **kuchhadiyaajay86kn@gmail.com**. I'm always open to discussing new ideas, collaborating on exciting projects, or answering questions related to AI/ML.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ajay-kuchhadiya-70913a222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@kuchhadiyaajay86kn" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
-</p>
-
----
-
-### 🔧 Languages and Tools
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
-</p>
-
----
-
-Thank you for visiting my GitHub profile! Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate on any exciting AI/ML projects.
+*Open to conversations about agentic AI, LLM infrastructure, or anything at the intersection of AI and real-world software engineering.*
